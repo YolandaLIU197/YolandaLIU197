@@ -22,7 +22,7 @@
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a grad student at Columbia University
-- 🔭 I’m currently working on ML, software engineering, and quantitative projects  
+- 🔭 I’m currently working on Data science, ML, and software engineering projects  
 - 👯 I’m looking to collaborate on projects in ML, DS, and applied AI  
 - 🎯 I’m actively seeking opportunities in SWE, DS, and quantitative research  
 - 💬 Ask me about Python, ML, graph learning, or research projects  
