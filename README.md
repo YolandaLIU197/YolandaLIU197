@@ -135,6 +135,18 @@
 
 ---
 
+#### ⛽ Numeralgo NGS | Natural Gas Storage Valuation & Network Scheduling
+**Optimization · Network Flow · Stochastic Modeling · Python · Linear Programming**
+
+- Developed a time-expanded multi-period minimum-cost-flow model for gas procurement, transportation, storage, and inventory scheduling, replacing a hand-tuned storage-cost parameter with endogenous LP shadow prices.
+- Built scenario-generation and simulation workflows using seasonal and mean-reverting price dynamics, weather-driven demand, and rolling-horizon optimization across **200 stochastic scenarios**.
+- Demonstrated that the rolling-horizon policy achieved approximately a **0.5% gap to the perfect-information cost floor** without storage-cost tuning, while fixed-cost policies varied from **0.25% to 9.4%** across plausible parameter choices.
+- Implemented reproducible experiments, validation tests, scenario pipelines, and sensitivity analysis in Python using PuLP/HiGHS, pandas, and NumPy.
+
+🔗 [View Project](https://github.com/charliesgj/stochastic-storage-control)
+
+---
+
 #### 📈 Explainable AI in Financial Prediction
 **Explainable AI · Transformers · Time Series · PyTorch**
 
