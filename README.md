@@ -33,8 +33,7 @@
 - 🎓 M.S. in Financial Engineering at Columbia, graduating December 2026
 - 💻 Building data systems, machine learning models, and full-stack AI applications
 - 📊 Experience across data engineering, analytics, ML, and software development
-- 🔧 Recent work includes Python/SQL ETL pipelines, recommender systems, explainable AI,  
-  and agentic software with full-stack interfaces and workflows
+- 🔧 Recent work includes Python/SQL ETL pipelines, recommender systems, explainable AI, and agentic software with full-stack interfaces and workflows
 - 🔎 Seeking full-time roles in Data Science, Data Engineering, AI, and Software Engineering
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yolandaliu02/) or at **yolandaliujob@gmail.com**
 - 🌐 My portfolio: [Portfolio](https://yolandaliu197.github.io/)  
